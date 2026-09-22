@@ -17,7 +17,7 @@ Type `/upgrader`, put up to three item stacks into the slots, pick a more valuab
 
 ## Download
 
-Grab **`Upgrader-v1.0.0.mcaddon`** from the [releases page](../../releases) or straight from this repository.
+Grab **`Upgrader-v1.0.1.mcaddon`** from the [releases page](../../releases) or straight from this repository.
 
 New to this? Follow **[SETUP-HELP.md](SETUP-HELP.md)** - it walks you through installing and starting it.
 
