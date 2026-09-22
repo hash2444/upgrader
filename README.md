@@ -2,6 +2,8 @@
 
 > A CS2-style item upgrader: trade items for a chance at something more valuable.
 
+[![Download](https://img.shields.io/badge/Download-latest%20build-e94560?style=for-the-badge&logo=github&logoColor=white)](../../releases/latest)
+
 Type `/upgrader`, put up to three item stacks into the slots, pick a more valuable target and spin the wheel. The green arc is your chance, the needle decides. No cheats needed - it works in a normal survival world.
 
 ## What it does
@@ -32,6 +34,8 @@ Every pack of mine carries a small easter egg: craft the **Dev Book** with **9 l
 - Not an official Minecraft product. Not approved by or associated with Mojang or Microsoft.
 - This does not involve real money or real-world value of any kind - it is an in-game item shuffle for fun.
 - Not an official Minecraft product. Not approved by or associated with Mojang or Microsoft.
+
+![preview](upgrader.png)
 
 ---
 
